@@ -188,3 +188,15 @@ triangle.perimeter(3, 4, 5)    # 12
 - Прямоугольник: P = 2a + 2b
 - Квадрат: P = 4a
 - Треугольник: P = a + b + c
+
+## История изменений в проекте
+
+| Хеш коммита | Дата создания коммита | Описание коммита                                                                |
+| ----------- | --------------------- | ------------------------------------------------------------------------------- |
+| bfcf45d     | 2026-09-18            | Library documentation added, along with descriptions for each library function. |
+| e471f15     | 2026-09-11            | lab report changed: + conclusion                                                |
+| f873122     | 2026-09-10            | lab report added                                                                |
+| 59264ed     | 2026-09-04            | error fixed                                                                     |
+| 640e2a4     | 2026-09-04            | rectangle commit                                                                |
+| d078c8d     | 2021-03-04            | L-03: Docs added                                                                |
+| 8ba9aeb     | 2021-03-04            | L-03: Circle and square added                                                   |
