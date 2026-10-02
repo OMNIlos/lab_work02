@@ -1,4 +1,3 @@
-
 def area(a: (int | float)) -> (int | float):
 	'''
 	Функция принимает на вход длину стороны квадрата - целочисленное значение или значение с плавающей точкой.
@@ -12,7 +11,6 @@ def area(a: (int | float)) -> (int | float):
 	'''
 
 	return a * a
-
 
 def perimeter(a: (int | float)) -> (int | float):
 	'''
