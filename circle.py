@@ -1,6 +1,5 @@
 import math
 
-
 def area(r: (float | int)) -> float:
     '''
     Возвращает площадь круга по заданному радиусу.
@@ -13,7 +12,6 @@ def area(r: (float | int)) -> float:
 
     '''
     return math.pi * r * r
-
 
 def perimeter(r: (float | int)) -> float: 
     '''
